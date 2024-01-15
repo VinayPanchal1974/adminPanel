@@ -1,0 +1,57 @@
+
+.signupdiv{
+    width: 40%;
+    background-color: #fff;
+    box-shadow: 1px 1px 8px rgba(0,0,0,6.005);
+    border-radius: 5px;
+    margin: 40px auto;
+    padding: 50px;
+}
+
+.h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form{
+    margin-top: 10px;
+}
+
+.form .formdiv{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form .formdiv label{
+    margin-bottom: 5px;
+    font-size: 21px;
+}
+
+.form .formdiv input{
+    margin-bottom: 10px;
+    padding: 10px;
+    outline:none;
+    border-radius: 5px;
+}
+
+.form  button{
+    border: 0;
+    outline: none;
+    background-color: purple;
+    color: #fff;
+    font-weight: 600;
+    padding: 15px;
+    cursor: pointer;
+    box-shadow: 1px 1px 8px rgba(0,0,0,6.005);
+    border-radius: 10px;
+    margin-top: 15px;
+
+}
+
+.link{
+    margin-top: 20px;
+    text-align: center;
+}

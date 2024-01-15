@@ -1,0 +1,62 @@
+
+.updateProducth1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+.updateProduct{
+    width: 40%;
+    background-color: white;
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.065);
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.updateProductBackButton{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    background-color: purple;
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.065);
+    border-radius: 5px;
+    padding: 10px;
+ 
+}
+
+.updateProductForm{
+    margin-top: 10px;
+}
+
+
+.updateProductForm .inputGroup{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.updateProductForm .inputGroup label{
+    margin-bottom: 5px;
+}
+
+.updateProductForm .inputGroup input{
+    margin-bottom: 10px;
+    padding: 10px;
+    outline: none;
+    border-radius: 5px;
+}
+
+.updateproductButton{
+    border: 0;
+    outline: none;
+    background-color: purple;
+    color: white;
+    font-weight: 600;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.065);
+    margin-top: 20px;
+
+}

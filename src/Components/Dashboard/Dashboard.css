@@ -1,0 +1,34 @@
+.dashboard {
+    width: 100%;
+    background-color: red;
+    height: 100px;
+    margin: 10px 0px;
+}
+
+.dashboard .div1 {
+    width: 23%;
+    height: auto;
+    background-color: aqua;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 6.005);
+    display: inline-block;
+    vertical-align:top;
+}
+.dashboard .div1 .dashh1 {
+    text-align: center;
+    margin-top: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.dashboard .div2 {
+    width: 77%;
+    height: auto;
+    background-color: pink;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 6.005);
+    display: inline-block;
+    vertical-align:top;
+}
+
+.dashlink{
+    text-decoration: none;
+    color: black;
+}

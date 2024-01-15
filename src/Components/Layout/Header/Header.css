@@ -1,0 +1,63 @@
+.headerdiv {
+    width: 96%;
+    height: 90px;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 5px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 6.005);
+}
+
+.headerdiv .div1 {
+    width: 20%;
+    height: 90%;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: blue;
+}
+
+.headerdiv .div2 {
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.headerdiv .div2 h1 {
+    text-align: center;
+    margin-top: 25px;
+    text-decoration: underline;
+}
+
+.headerdiv .div3 {
+    width: 20%;
+    height: 90%;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.headerdiv .div3 h2 {
+    margin-top: 25px;
+}
+
+.headerdiv .div4 {
+    width: 10%;
+    height: 90%;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+.headerdiv .div4 button {
+    border: 0;
+    outline: none;
+    background-color: purple;
+    color: #fff;
+    font-weight: 600;
+    padding: 15px;
+    cursor: pointer;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 6.005);
+    border-radius: 10px;
+    margin-top: 15px;
+
+}
